@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "puppeteer": "^11.0.0"
+  },
+  "name": "lecture13thoct",
+  "version": "1.0.0",
+  "main": "1_HackerrankAutomation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
